@@ -33,3 +33,5 @@ Role: Data Analyst & Database Developer
 Description: Executed a data integration and visualization project focusing on crowdfunding data. This involved ETL processes, database development, and data analysis.
 Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy.
 View Project on GitHub
+
+![Alt Text]([URL_of_GIF](https://images.app.goo.gl/VoAhGcqKTpstMqou7)https://images.app.goo.gl/VoAhGcqKTpstMqou7)
