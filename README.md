@@ -35,4 +35,4 @@ Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlche
 View Project [here](https://github.com/jyojay/Crowdfunding_ETL.git) </br>
 
 
-![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
+               ![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
