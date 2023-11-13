@@ -18,21 +18,21 @@ Web Technologies: Basic knowledge of HTML and Java, with a focus on building fou
 `University of Economics`, Cracow: My academic foundation, where I earned my degrees in Finance and Accounting. </br>
 
 ## Project Highlights ✨
-1. `Guardians of Authenticity: AI Edition`
-Role: Data Scientist & Recurrent Neural Network (RNN) Engineer
-Description: Developed an interactive platform leveraging Machine Learning and NLP to distinguish real news from fake. Utilized Recurrent Neural Networks for effective text analysis and classification.
-Tools: Python (Pandas, Numpy, Scikit-learn, Nltk, TextBlob, Spacy, Streamlit), TensorFlow (Keras), Jupyter, Colab, Tableau.
-View Code on GitHub
-2. `Movie Nerd. Data Nerd.`
-Role: Data Analyst & Visualization Developer
-Description: Created an interactive dashboard to analyze movie ratings and explore gender disparities in the film industry. This project involved extensive data analysis and visualization.
-Tools: Python (Flask, Pandas), JavaScript (D3.js, Plotly), SQLite, HTML5.
-View Project | Access Code on GitHub
-3. `Crowdfunding ETL`
-Role: Data Analyst & Database Developer
-Description: Executed a data integration and visualization project focusing on crowdfunding data. This involved ETL processes, database development, and data analysis.
-Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy.
-View Project on GitHub
+1. `Guardians of Authenticity: AI Edition` </br>
+Role: Data Scientist & Recurrent Neural Network (RNN) Engineer </br> 
+Description: Developed an interactive platform leveraging Machine Learning and NLP to distinguish real news from fake. Utilized Recurrent Neural Networks for effective text analysis and classification. </br>
+Tools: Python (Pandas, Numpy, Scikit-learn, Nltk, TextBlob, Spacy, Streamlit), TensorFlow (Keras), Jupyter, Colab, Tableau. </br>
+View Code on GitHub </br>
+2. `Movie Nerd. Data Nerd.` </br>
+Role: Data Analyst & Visualization Developer  </br>
+Description: Created an interactive dashboard to analyze movie ratings and explore gender disparities in the film industry. This project involved extensive data analysis and visualization. </br>
+Tools: Python (Flask, Pandas), JavaScript (D3.js, Plotly), SQLite, HTML5. </br>
+View Project | Access Code on GitHub </br>
+3. `Crowdfunding ETL` </br>
+Role: Data Analyst & Database Developer </br>
+Description: Executed a data integration and visualization project focusing on crowdfunding data. This involved ETL processes, database development, and data analysis. </br>
+Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy. </br>
+View Project on GitHub </br>
 
 
 ![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
