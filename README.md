@@ -1,16 +1,35 @@
-### Hi there 👋
+## Welcome to My World of Data and Finance 🌍💼📊
+I'm Joanna, transitioning from a decade-long career in finance to the dynamic field of data analytics. My journey is about blending meticulous financial expertise with the innovative realm of data.
 
-<!--
-**ashakozak/ashakozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Unique Blend 🌟
+10+ Years in Finance: Deep-rooted experience in financial analysis, process optimization, and cross-functional collaboration across Australia and Poland. 🏦
+Data Analytics Enthusiast: Recently graduated from Monash University's Data Analytics Bootcamp, where I embraced the power of data in decision-making. 📈
+Multilingual Communicator: Fluent in English, Polish, and French, bridging cultural and linguistic gaps in professional environments. 🌐
 
-Here are some ideas to get you started:
+## Technical Toolkit 🔧
+Python: Proficient in applying advanced data analysis methods and machine learning algorithms using Python's diverse ecosystem. 🐍
+Database Management: Skilled in SQL (PostgreSQL) and NoSQL (MongoDB) for robust data storage and retrieval. 🗃️
+Data Visualization: Creating compelling stories through data using tools like Tableau, D3.js, and Plotly. 📊
+Advanced Excel: Leveraging Excel for financial modeling, data analysis, and creating efficient macro-driven processes. 📈
+Web Technologies: Basic knowledge of HTML and Java, with a focus on building foundational skills for interactive data-driven web applications. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education & Learning Path 📚
+Monash University's Data Analytics Bootcamp: A 24-week intensive journey into data analytics, covering everything from Python programming to machine learning.
+University of Economics, Cracow: My academic foundation, where I earned my degrees in Finance and Accounting.
+
+##Project Highlights ✨
+1. Guardians of Authenticity: AI Edition
+Role: Data Scientist & Recurrent Neural Network (RNN) Engineer
+Description: Developed an interactive platform leveraging Machine Learning and NLP to distinguish real news from fake. Utilized Recurrent Neural Networks for effective text analysis and classification.
+Tools: Python (Pandas, Numpy, Scikit-learn, Nltk, TextBlob, Spacy, Streamlit), TensorFlow (Keras), Jupyter, Colab, Tableau.
+View Code on GitHub
+2. Movie Nerd. Data Nerd.
+Role: Data Analyst & Visualization Developer
+Description: Created an interactive dashboard to analyze movie ratings and explore gender disparities in the film industry. This project involved extensive data analysis and visualization.
+Tools: Python (Flask, Pandas), JavaScript (D3.js, Plotly), SQLite, HTML5.
+View Project | Access Code on GitHub
+3. Crowdfunding ETL
+Role: Data Analyst & Database Developer
+Description: Executed a data integration and visualization project focusing on crowdfunding data. This involved ETL processes, database development, and data analysis.
+Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy.
+View Project on GitHub
