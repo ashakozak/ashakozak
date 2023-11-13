@@ -22,17 +22,17 @@ Web Technologies: Basic knowledge of HTML and Java, with a focus on building fou
 Role: Data Scientist & Recurrent Neural Network (RNN) Engineer </br> 
 Description: Developed an interactive platform leveraging Machine Learning and NLP to distinguish real news from fake. Utilized Recurrent Neural Networks for effective text analysis and classification. </br>
 Tools: Python (Pandas, Numpy, Scikit-learn, Nltk, TextBlob, Spacy, Streamlit), TensorFlow (Keras), Jupyter, Colab, Tableau. </br>
-View Code [here](https://github.com/jyojay/MONU_Project_4.git) </br>
+View Project [here](https://github.com/jyojay/MONU_Project_4.git) </br>
 2. `Movie Nerd. Data Nerd.` </br>
 Role: Data Analyst & Visualization Developer  </br>
 Description: Created an interactive dashboard to analyze movie ratings and explore gender disparities in the film industry. This project involved extensive data analysis and visualization. </br>
 Tools: Python (Flask, Pandas), JavaScript (D3.js, Plotly), SQLite, HTML5. </br>
-View Project | Access Code on GitHub </br>
+View Project [here](https://benoitchamot.github.io/MONU_project3/) | Access Code [here](https://github.com/benoitchamot/MONU_project3.git) </br>
 3. `Crowdfunding ETL` </br>
 Role: Data Analyst & Database Developer </br>
 Description: Executed a data integration and visualization project focusing on crowdfunding data. This involved ETL processes, database development, and data analysis. </br>
 Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy. </br>
-View Project on GitHub </br>
+View Project [here](https://github.com/jyojay/Crowdfunding_ETL.git) </br>
 
 
 ![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
