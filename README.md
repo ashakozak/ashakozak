@@ -22,7 +22,7 @@ Web Technologies: Basic knowledge of HTML and Java, with a focus on building fou
 Role: Data Scientist & Recurrent Neural Network (RNN) Engineer </br> 
 Description: Developed an interactive platform leveraging Machine Learning and NLP to distinguish real news from fake. Utilized Recurrent Neural Networks for effective text analysis and classification. </br>
 Tools: Python (Pandas, Numpy, Scikit-learn, Nltk, TextBlob, Spacy, Streamlit), TensorFlow (Keras), Jupyter, Colab, Tableau. </br>
-View Code on GitHub </br>
+View Code [here](https://github.com/jyojay/MONU_Project_4.git) </br>
 2. `Movie Nerd. Data Nerd.` </br>
 Role: Data Analyst & Visualization Developer  </br>
 Description: Created an interactive dashboard to analyze movie ratings and explore gender disparities in the film industry. This project involved extensive data analysis and visualization. </br>
