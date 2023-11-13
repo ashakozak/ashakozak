@@ -7,11 +7,11 @@ Data Analytics Enthusiast: Recently graduated from Monash University's Data Anal
 Multilingual Communicator: Fluent in English, Polish, and French, bridging cultural and linguistic gaps in professional environments. 🌐 </br>
 
 ## Technical Toolkit 🔧
-Python: Proficient in applying advanced Data Analysis methods and Machine Learning algorithms using Python's diverse ecosystem. 🐍 </br>
-Database Management: Skilled in SQL (PostgreSQL) and NoSQL (MongoDB) for robust data storage and retrieval. 🗃️ </br>
-Data Visualization: Creating compelling stories through data using tools like Tableau, D3.js, and Plotly. 📊 </br>
-Advanced Excel: Leveraging Excel for financial modeling, data analysis, and creating efficient macro-driven processes. 📈 </br>
-Web Technologies: Basic knowledge of HTML and Java, with a focus on building foundational skills for interactive data-driven web applications. 💻 </br>
+`Python`: Proficient in applying advanced Data Analysis methods and Machine Learning algorithms using Python's diverse ecosystem. 🐍 </br>
+`Database Management`: Skilled in SQL (PostgreSQL) and NoSQL (MongoDB) for robust data storage and retrieval. 🗃️ </br>
+`Data Visualization`: Creating compelling stories through data using tools like Tableau, D3.js, and Plotly. 📊 </br>
+`Advanced Excel`: Leveraging Excel for financial modeling, data analysis, and creating efficient macro-driven processes. 📈 </br>
+`Web Technologies`: Basic knowledge of HTML and Java, with a focus on building foundational skills for interactive data-driven web applications. 💻 </br>
 
 ## Education & Learning Path 📚
 `Monash University`'s Data Analytics Bootcamp: A 24-week intensive journey into data analytics, covering everything from Python programming to machine learning. </br>
