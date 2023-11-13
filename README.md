@@ -34,5 +34,8 @@ Description: Executed a data integration and visualization project focusing on c
 Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy. </br>
 View Project [here](https://github.com/jyojay/Crowdfunding_ETL.git) </br>
 
+<div align="center">
+  <img src="[URL_OF_YOUR_GIF](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)" alt="Cat GIF" width="300" height="200"/>
+</div>
 
-               ![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
+![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
