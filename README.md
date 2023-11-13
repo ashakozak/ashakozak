@@ -2,9 +2,9 @@
 I'm Joanna, transitioning from a decade-long career in Finance to the dynamic field of Data Analytics. My journey is about blending meticulous financial expertise with the innovative realm of data.
 
 ## My Unique Blend 🌟
-10+ Years in Finance: Deep-rooted experience in financial analysis, process optimization, and cross-functional collaboration across Australia and Poland. 🏦 </br>
-Data Analytics Enthusiast: Recently graduated from Monash University's Data Analytics Bootcamp, where I embraced the power of data in decision-making. 📈 </br>
-Multilingual Communicator: Fluent in English, Polish, and French, bridging cultural and linguistic gaps in professional environments. 🌐 </br>
+`10+ Years in Finance`: Deep-rooted experience in financial analysis, process optimization, and cross-functional collaboration across Australia and Poland. 🏦 </br>
+`Data Analytics Enthusiast`: Recently graduated from Monash University's Data Analytics Bootcamp, where I embraced the power of data in decision-making. 📈 </br>
+`Multilingual Communicator`: Fluent in English, Polish, and French, bridging cultural and linguistic gaps in professional environments. 🌐 </br>
 
 ## Technical Toolkit 🔧
 `Python`: Proficient in applying advanced Data Analysis methods and Machine Learning algorithms using Python's diverse ecosystem. 🐍 </br>
