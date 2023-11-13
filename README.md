@@ -34,4 +34,5 @@ Description: Executed a data integration and visualization project focusing on c
 Tools: Python, Pandas, Regular Expressions, QuickDBD (ERD), PostgreSQL, SQLAlchemy.
 View Project on GitHub
 
-![Alt Text]([URL_of_GIF](https://images.app.goo.gl/VoAhGcqKTpstMqou7)https://images.app.goo.gl/VoAhGcqKTpstMqou7)
+
+![Alt Text](https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif)
