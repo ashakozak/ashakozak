@@ -1,5 +1,5 @@
 ## Welcome to My World of Data and Finance 🌍💼📊
-I'm Joanna, transitioning from a decade-long career in finance to the dynamic field of data analytics. My journey is about blending meticulous financial expertise with the innovative realm of data.
+I'm Joanna, transitioning from a decade-long career in Finance to the dynamic field of Data Analytics. My journey is about blending meticulous financial expertise with the innovative realm of data.
 
 ## My Unique Blend 🌟
 10+ Years in Finance: Deep-rooted experience in financial analysis, process optimization, and cross-functional collaboration across Australia and Poland. 🏦 </br>
